@@ -26,7 +26,7 @@ function darw() {
 	stroke("blue");
 	strokeweight(13);
 	if(mouseIsPressed){
-		line(pmouseX,pmouseY,mouseX,mouseY,)
+		line(pmouseX,pmouseY,mouseX,mouseY)
 	}
 	
 }
